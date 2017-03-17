@@ -69,3 +69,29 @@
 	margin-bottom: 0px;
 
 }*/
+
+.zise-start i{
+	font-size: 15px;
+}
+
+.subprice{
+	position: absolute;
+	color: #bdbdbd;
+	right: 11px;
+	top: 1px;
+	text-decoration: line-through;
+}
+
+.card-content h3 a{
+	padding: 0;	
+	margin:0;
+	font-size: 1.5rem;
+	line-height: 1.4;
+	font-weight: 300;
+}
+
+.slider-logos img{
+	height:50px;
+	display:block;
+	margin:20px 30px;
+}
